@@ -1,8 +1,5 @@
 # customer-churn-prediction-dl
 Deep learning-based customer churn prediction using various neural network architectures and datasets.
-# Customer Churn Prediction using Deep Learning
-
-This project focuses on predicting customer churn using various deep learning techniques across different datasets. It explores how neural networks can model complex patterns in customer behavior to anticipate churn with high accuracy.
 
 ## 🔍 Problem Statement
 
@@ -23,17 +20,12 @@ Customer churn refers to the loss of clients or subscribers. Accurately predicti
 
 - [Telco Customer Churn Dataset (IBM)](https://www.kaggle.com/blastchar/telco-customer-churn)
 - [Bank Customer Churn Dataset](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
-- Others (to be added)
 
 ---
 
 ## 🧠 Deep Learning Techniques Applied
 
 - Fully Connected Neural Networks (ANN)
-- Recurrent Neural Networks (RNN, LSTM)
-- Convolutional Neural Networks (CNN for feature extraction)
-- Dropout, Batch Normalization
-- Hyperparameter tuning using Keras/TensorFlow
 
 ---
 
