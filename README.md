@@ -47,5 +47,3 @@ Customer churn refers to the loss of clients or subscribers. Accurately predicti
 
 ---
 
-## 📂 Repository Structure
-
